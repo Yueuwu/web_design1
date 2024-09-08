@@ -15,14 +15,14 @@ p {
     font-family: "Roboto Mono", monospace;
     font-weight: <weight>;
     font-style: normal;
-    color: darkorange;
+    color: blueviolet;
 }
 h1, h2 {
-    color: darkred;
+    color: #0bb104;
 }
 
 .intro {
-    color: blue;
+    color: black;
     font-size: 1.4em;
     margin-left: 0;
     margin-bottom: 25px;
